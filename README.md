@@ -1,11 +1,11 @@
 # CSFNet
-The code of the paper **Cross Spectral and Spatial Scale Non-local Attention-Based Unsupervised Pansharpening Network** that has been published in Jstar (https://ieeexplore.ieee.org/document/10130294).
+The pytorch version's code of the paper **Cross Spectral and Spatial Scale Non-local Attention-Based Unsupervised Pansharpening Network** that has been published in Jstar (https://ieeexplore.ieee.org/document/10130294).
 
 **We have open source the gaofen2 datasets used in this paper to contribute the pansharpening field.** Include the multispectral and pan images, which could be freely downloaded from the website:**https://aistudio.baidu.com/datasetdetail/136740/0**
 
 Note that this dataset is acquired by the Gaofen2 satellite.
 
-You could run the following codes to run the fusion network:
+You could run the following codes to run the fusion network: 
 
 for the full resolution fusion:
 ```python main_pansharpening_full.py```
